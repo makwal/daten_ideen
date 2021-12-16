@@ -11,4 +11,10 @@
 **Geschichten der Konkurrenz**
 - <a href="https://interaktiv.br.de/urbane-hitzeinseln/">Urbane Hitzeinseln (BR)</a>
 
+**Konkurrenz**
+- <a href="https://interaktiv.tagesanzeiger.ch/">TA Interaktiv</a>
+- <a href="https://www.nzz.ch/visuals">NZZ Visuals</a>
+- <a href=""></a>
+- <a href=""></a>
+
 <a href=""></a>
